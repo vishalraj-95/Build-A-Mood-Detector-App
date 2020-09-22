@@ -1,5 +1,6 @@
 # Build-A-Mood-Detector-App
-Spotle AI-Thon Level II 
+Spotle AI-Thon Level II Rank 6 (out of 7339 participants).
+
 We noticed that there is a data imbalance among the classes. To counter the possibility of over-fitting towards the dominant class, we used "class weights" and image data augmentation. Keras image data generator was used for augmentation. The augmentation procedures like zoom, rotation etc. are used an its parameters have been tuned to reduce over-fitting
 
 
