@@ -1,4 +1,4 @@
-Python library needed to the code
+Python library needed to the code in script
 # Numpy
 # Pandas
 # OpneCV for Python
