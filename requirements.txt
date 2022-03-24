@@ -1,4 +1,4 @@
-# add Python library if it is not in the list
+Python library needed
 # Numpy
 # Pandas
 # OpneCV for Python
@@ -8,6 +8,5 @@
 # Scikit-learn
 # Theano
 # Matplotlib
-#
-#
+
 
